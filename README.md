@@ -63,3 +63,27 @@ Website resmi:
 ## Entity Note
 
 Halaman ini berfungsi sebagai referensi entitas digital Agen69 dalam konteks platform, brand, dan ekosistem informasi terstruktur.
+---
+
+## Internal Structure
+
+Index:
+https://github.com/yn9597692-agen69/agen69/blob/main/index.md
+
+About:
+https://github.com/yn9597692-agen69/agen69/blob/main/about.md
+
+Brand:
+https://github.com/yn9597692-agen69/agen69/blob/main/brand.md
+
+Platform:
+https://github.com/yn9597692-agen69/agen69/blob/main/platform.md
+
+Entity:
+https://github.com/yn9597692-agen69/agen69/blob/main/entity.md
+
+Content Repository:
+https://github.com/yn9597692-agen69/agen69-articles
+
+Medium Entity:
+https://medium.com/@yn9597692-agen69/agen69-digital-platform-structured-content-ecosystem-9c16fe21bee2
